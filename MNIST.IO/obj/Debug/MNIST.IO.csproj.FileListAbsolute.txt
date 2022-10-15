@@ -1,0 +1,10 @@
+D:\ANN\MNIST.IO\MNIST.IO\bin\Debug\MNIST.IO.exe.config
+D:\ANN\MNIST.IO\MNIST.IO\bin\Debug\MNIST.IO.exe
+D:\ANN\MNIST.IO\MNIST.IO\bin\Debug\MNIST.IO.pdb
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.Form1.resources
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.imageViewer.resources
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.Properties.Resources.resources
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.csproj.GenerateResource.Cache
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.exe
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.pdb
+D:\ANN\MNIST.IO\MNIST.IO\obj\Debug\MNIST.IO.csprojResolveAssemblyReference.cache
